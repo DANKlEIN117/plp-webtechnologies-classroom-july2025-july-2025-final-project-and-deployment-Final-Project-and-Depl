@@ -56,5 +56,5 @@ The goal of this project is to create a clean, modern, and responsive multipage 
 
 ##  How to Use / Run Locally
 1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/my-portfolio.git
+```bash[
+https://github.com/DANKlEIN117/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
