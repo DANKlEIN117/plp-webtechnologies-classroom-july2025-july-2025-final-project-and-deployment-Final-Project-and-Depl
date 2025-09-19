@@ -50,7 +50,7 @@ The goal of this project is to create a clean, modern, and responsive multipage 
 - **HTML5** – Semantic structure  
 - **CSS3** – Styling, Flexbox, Grid, responsive design  
 - **JavaScript** – Menu toggle, form validation  
-- **GitHub Pages / Netlify / Vercel** – Deployment  
+- ** Netlify ** – Deployment  
 
 ---
 
