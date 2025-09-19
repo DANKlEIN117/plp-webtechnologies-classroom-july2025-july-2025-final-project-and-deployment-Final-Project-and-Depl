@@ -1,15 +1,12 @@
-# Boss Portfolio
+# Dan Portfolio
 
 Welcome to my personal portfolio website! This project showcases my web development skills, projects, and contact information. Built with **HTML5, CSS3, and JavaScript**, it’s fully responsive and interactive.  
 
-## 🌐 Live Demo
-Check out the live site here: [https://yourusername.github.io/my-portfolio](https://yourusername.github.io/my-portfolio)  
+##  Live Demo
+Check out the live site here: [https://bejewelled-cheesecake-2a7d24.netlify.app/](https://yourusername.github.io/my-portfolio)  
 
-*(Replace the URL with your deployed GitHub Pages, Netlify, or Vercel link.)*
 
----
-
-## 📝 Project Overview
+##  Project Overview
 **Purpose:**  
 The goal of this project is to create a clean, modern, and responsive multipage website that highlights my work and skills, providing a professional online presence.  
 
@@ -21,7 +18,7 @@ The goal of this project is to create a clean, modern, and responsive multipage 
 
 ---
 
-## 🎨 Features
+##  Features
 - Fully responsive design (desktop, tablet, mobile)  
 - Interactive mobile menu toggle  
 - Contact form with basic email validation  
@@ -30,7 +27,7 @@ The goal of this project is to create a clean, modern, and responsive multipage 
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 /my-portfolio
 │
 ├─ index.html
@@ -49,7 +46,7 @@ The goal of this project is to create a clean, modern, and responsive multipage 
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - **HTML5** – Semantic structure  
 - **CSS3** – Styling, Flexbox, Grid, responsive design  
 - **JavaScript** – Menu toggle, form validation  
@@ -57,7 +54,7 @@ The goal of this project is to create a clean, modern, and responsive multipage 
 
 ---
 
-## 📱 How to Use / Run Locally
+##  How to Use / Run Locally
 1. Clone the repository:  
 ```bash
 git clone https://github.com/yourusername/my-portfolio.git
