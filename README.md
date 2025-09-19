@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my web development skills, projects, and contact information. Built with **HTML5, CSS3, and JavaScript**, it’s fully responsive and interactive.  
 
 ##  Live Demo
-Check out the live site here: [https://bejewelled-cheesecake-2a7d24.netlify.app/](https://yourusername.github.io/my-portfolio)  
+Check out the live site here: [https://bejewelled-cheesecake-2a7d24.netlify.app/]  
 
 
 ##  Project Overview
